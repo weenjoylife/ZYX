@@ -1,12 +1,9 @@
 {
   "pages":[
+    "pages/love/love",
     "pages/andu/andu",
     "pages/thanku/thanku",
-    "pages/fine/fine",
-    "pages/love/love"
-    
-    
-    
+    "pages/fine/fine"  
   ],
   "window":{
     "backgroundTextStyle":"light",
