@@ -1,0 +1,46 @@
+<!--pages/love/love.wxml-->
+<view class="u-down-view" >
+  <view class="r-left-view" >
+    <view>
+      <form class="u-down-view">
+        <view>基本属性:</view>
+        <view class="inline-flex">破蛋日:<input name="birthday" /></view>
+        <view class="inline-flex">身高：<input name="heght" /></view>
+        <view class="inline-flex">体重:<input name="weight" /></view>
+        <view class="inline-flex">三围:<input name="size3" /></view>
+        <view class="inline-flex">老巢:<input name="locaiton" /></view>
+      </form> 
+    </view>
+    
+    <image style="height:100px" src="../../resources/photo.png"></image>
+  </view>
+
+
+  <view class="u-down-view">
+    高级属性:
+    <view class="u-down-view">
+      <text style="color:red">喜欢:</text>
+      <view class="inline-flex">吃：<input name="eat" /></view>
+      <view class="inline-flex">喝：<input name="drink" /></view>
+      <view class="inline-flex">玩：<input name="play" /></view>
+      <view class="inline-flex">乐：<input name="fun" /></view>
+    </view>
+    <view class="u-down-view">
+      <text style="color:red">讨厌:</text>
+      <view class="inline-flex">吃：<input name="eat" /></view>
+      <view class="inline-flex">喝：<input name="drink" /></view>
+      <view class="inline-flex">玩：<input name="play" /></view>
+      <view class="inline-flex">乐：<input name="fun" /></view>
+    </view>
+  </view>
+
+  <view class="classname">
+    <view class="inline-flex">Ta的终极目标：<input name="eat" /></view>
+  </view>
+
+
+
+</view>
+
+
+

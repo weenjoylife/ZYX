@@ -1,0 +1,37 @@
+{
+  "pages":[
+    "pages/andu/andu",
+    "pages/thanku/thanku",
+    "pages/fine/fine",
+    "pages/love/love"
+    
+    
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "list":[
+      {
+        "pagePath":"pages/love/love",
+        "text":"love"
+      },
+      {
+        "pagePath": "pages/fine/fine",
+        "text":"fine"
+      },
+      {
+        "pagePath": "pages/thanku/thanku",
+        "text": "thanku"
+      },
+      {
+        "pagePath": "pages/andu/andu",
+        "text": "andu"
+      }
+    ]
+  }
+}
